@@ -1,1 +1,2 @@
-# ketoprak
+# Ketoprak
+Koleksi kode kegabutanku.
